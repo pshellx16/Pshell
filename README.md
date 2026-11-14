@@ -1,4 +1,4 @@
-# @pshell
+# Pshell
 > Cybersecurity Learner
 
 📧 [engineeringmindset5@gmail.com](engineeringmindset5@gmail.com)  |  💻 [https://github.com/pshellx16](https://github.com/pshellx16)
