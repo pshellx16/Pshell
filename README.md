@@ -15,8 +15,8 @@ Everything built while learning, in the open.
 - Tools — Git, GitHub, VirtualBox (learning)
 
 ## Projects
-- Python Practice Scripts — small scripts on fundamentals → github.com/yourhandle/python-scripts
-- Learning Scripts — experimental sandbox for Python & Linux → github.com/yourhandle/learning-scripts
+- Python Practice Scripts — small scripts on fundamentals
+- Learning Scripts — experimental sandbox for Python & Linux
 
 ## In Progress
 - CLI Task Automator (Python + Linux)
