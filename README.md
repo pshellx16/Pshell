@@ -10,9 +10,10 @@ Everything built while learning, in the open.
 
 ## Skills
 - Python — scripting, file handling, basic automation
+- Bash Scripting
 - Linux — CLI, file system, package management
 - Networking — TCP/IP basics, DNS, HTTP, troubleshooting
-- Tools — Git, GitHub, VirtualBox (learning)
+- Tools — Git, GitHub
 
 ## Projects
 - Python Practice Scripts — small scripts on fundamentals
