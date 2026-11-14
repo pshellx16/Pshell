@@ -1,9 +1,7 @@
 # @pshell
-
 > Cybersecurity Learner
 
 📧 [engineeringmindset5@gmail.com](engineeringmindset5@gmail.com)  |  💻 [https://github.com/pshellx16](https://github.com/pshellx16)
-✍️ blog.yourhandle.dev      |  🎯 tryhackme.com/p/yourhandle
 
 ## About
 Self-taught cybersecurity learner exploring Python, Linux, and networking.
@@ -34,4 +32,4 @@ Hindi, English
 
 ## Contact
 - Email: [engineeringmindset5@gmail.com](engineeringmindset5@gmail.com)
-GitHub: [https://github.com/pshellx16](https://github.com/pshellx16)
+- GitHub: [https://github.com/pshellx16](https://github.com/pshellx16)
