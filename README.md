@@ -29,7 +29,8 @@ Everything built while learning, in the open.
 (none yet — will fill as I write)
 
 ## Languages
-Hindi, English
+- English
+- Hindi
 
 ## Contact
 - Email: [engineeringmindset5@gmail.com](engineeringmindset5@gmail.com)
