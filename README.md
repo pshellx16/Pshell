@@ -1,4 +1,4 @@
-# Pshell
+# Pshell ‒ Cybersecurity
 > Open Security Lab • Python Automation • Linux & Networking
 
 📧 [contact.pshell@gmail.com](mailto:contact.pshell@gmail.com) | 💻 [github.com/pshellx16](https://github.com/pshellx16)
