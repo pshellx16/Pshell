@@ -15,7 +15,7 @@
 - **[Cybersecurity Lab](https://github.com/pshellx16/cybersecurity)** — Notes, scripts, and hands-on security experiments.
 - **Python Practice Scripts** — Core logic, file handling, and foundational automation tools.
 - **CLI Task Automator** *(In Development)* — Lightweight Linux + Python command-line utility.
-- **FocusTube** *(In Planning)* — Distraction-free utility concept.
+- **[FocusTube](pshellx16.github.io/FocusTube/)** — Distraction-free YouTube Player.
 
 ## Principles
 - **Minimal & Lightweight:** Zero unnecessary dependencies or bloat.
